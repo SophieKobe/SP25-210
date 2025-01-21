@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+.h1 {
+  color: chocolate;
+}
+
+.wrapper {
+  width: 1000px;
+  min-height: 200px;
+  margin: 0 auto;
+  background-color: cornsilk;
+}
+nav {
+  height: 50px;
+  width: 1000px;
+  margin-left: 255px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: aqua;
+}
