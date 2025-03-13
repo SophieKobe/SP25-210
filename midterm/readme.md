@@ -4,4 +4,4 @@ key takeaways:
 making a website based on the one provided
 
 live link:
-http://127.0.0.1:5500/index.html
+https://github.com/SophieKobe/SP25-210/tree/main/midterm
